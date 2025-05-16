@@ -1,2 +1,1 @@
-# instalasi-laravel
-Tugas Modul 1 Praktikum Web II Tentang  Instalasi dan Konfigurasi Environment Laravel
+“This repository contains materials and examples to facilitate interactive and hands-on learning on web-based application development practices.”
